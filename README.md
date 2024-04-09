@@ -22,5 +22,5 @@
 
 ### Github Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IpodCraft&card_width=450em&title_color=1DF5F8&text_color=4EB9FF&icon_color=0080FF&bg_color=00000000&border_color=12BCD6"/>
-<img src="https://github-readme-stats.vercel.app/api?username=IpodCraft&show_icons=true&count_private=true&include_all_commits=true&hide_stars=true&title_color=1DF5F8&text_color=4EB9FF&icon_color=0080FF&bg_color=00000000&border_color=12BCD6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IpodCraft&card_width=450em&title_color=0AF4ED&text_color=00FFF3&icon_color=0080FF&bg_color=00000000&border_color=12BCD6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IpodCraft&show_icons=true&count_private=true&include_all_commits=true&hide_stars=true&title_color=00FFF3&text_color=4EB9FF&icon_color=0080FF&bg_color=00000000&border_color=12BCD6" />
