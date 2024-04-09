@@ -1,12 +1,12 @@
 ## Social
  <p>
-  <a href="https://youtube.com/@IpodCraftYT">
+  <a href="https://youtube.com/@IpodCraftYT" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCidWHs7srSmkcl3nksIe6Cw?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Suscriptores&labelColor=%23282828&color=%23FF0000">
   </a>
-  <a href="https://www.twitch.tv/IpodCraftYT">
+  <a href="https://www.twitch.tv/IpodCraftYT" target="_blank">
       <img src="https://img.shields.io/twitch/status/ipodcraftyt?style=for-the-badge&logo=twitch&logoColor=%239146FF&label=Twitch&labelColor=%23000000&color=%239146FF">
   </a>
-  <a href="">
+  <a href="https://discord.gg/Guq6aGftyr" target="_blank">
      <img src="https://img.shields.io/discord/1117891111877349507?style=for-the-badge&logo=discord&logoColor=%237289da&label=Discord%20Server&labelColor=%231e2124&color=%237289da">
   </a>
 </p>
