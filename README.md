@@ -6,9 +6,6 @@
   <a href="https://www.twitch.tv/IpodCraftYT" target="_blank">
       <img src="https://img.shields.io/twitch/status/ipodcraftyt?style=for-the-badge&logo=twitch&logoColor=%239146FF&label=Twitch&labelColor=%23000000&color=%239146FF">
   </a>
-  <! --a href="https://discord.gg/Guq6aGftyr" target="_blank" ->
-     <img src="https://img.shields.io/discord/1117891111877349507?style=for-the-badge&logo=discord&logoColor=%237289da&label=Discord%20Server&labelColor=%231e2124&color=%237289da">
-  <- /a -->
 </p>
 
 <br>
