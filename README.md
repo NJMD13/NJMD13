@@ -17,6 +17,12 @@
 </p>
 <br>
 
+## Backend Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white">
+</p>
+<br>
+
 ### Github Stats:
 
 <div style="display: inline;">
