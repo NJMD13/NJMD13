@@ -1,6 +1,6 @@
 ## Social
  <p>
-  <a href="https://youtube.com/@IpodCraftYT" target="_blank">
+  <a href="https://youtube.com/@IpodCraft" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCidWHs7srSmkcl3nksIe6Cw?style=for-the-badge&logo=youtube&logoColor=%23FF0000&label=Suscriptores&labelColor=%23282828&color=%23FF0000">
   </a>
   <a href="https://www.twitch.tv/IpodCraftYT" target="_blank">
