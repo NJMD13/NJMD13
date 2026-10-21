@@ -1,7 +1,7 @@
 ## Social
 <p>
   <a href="https://youtube.com/@IpodCraft" target="_blank">
-    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCidWHs7srSmkcl3nksIe6Cw&layout=ext&theme=dark" alt="YouTube @IpodCraft">
+    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCidWHs7srSmkcl3nksIe6Cw&layout=default&theme=dark" alt="YouTube @IpodCraft">
   </a>
   <a href="https://www.twitch.tv/IpodCraftYT" target="_blank">
     <img src="https://img.shields.io/twitch/status/ipodcraftyt?style=for-the-badge&logo=twitch&logoColor=%239146FF&label=Twitch&labelColor=%23000000&color=%239146FF" alt="Twitch IpodCraftYT">
